@@ -1,1 +1,1 @@
-# SoftwareEnigneeringGroupwork
+# SoftwareEngineeringGroupwork
